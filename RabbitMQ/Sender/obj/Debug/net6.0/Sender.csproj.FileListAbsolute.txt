@@ -1,0 +1,17 @@
+/home/horaoen/CodeRepo/DemoProject/RabbitMQ/Sender/bin/Debug/net6.0/Sender
+/home/horaoen/CodeRepo/DemoProject/RabbitMQ/Sender/bin/Debug/net6.0/Sender.deps.json
+/home/horaoen/CodeRepo/DemoProject/RabbitMQ/Sender/bin/Debug/net6.0/Sender.runtimeconfig.json
+/home/horaoen/CodeRepo/DemoProject/RabbitMQ/Sender/bin/Debug/net6.0/Sender.dll
+/home/horaoen/CodeRepo/DemoProject/RabbitMQ/Sender/bin/Debug/net6.0/ref/Sender.dll
+/home/horaoen/CodeRepo/DemoProject/RabbitMQ/Sender/bin/Debug/net6.0/Sender.pdb
+/home/horaoen/CodeRepo/DemoProject/RabbitMQ/Sender/bin/Debug/net6.0/RabbitMQ.Client.dll
+/home/horaoen/CodeRepo/DemoProject/RabbitMQ/Sender/obj/Debug/net6.0/Sender.csproj.AssemblyReference.cache
+/home/horaoen/CodeRepo/DemoProject/RabbitMQ/Sender/obj/Debug/net6.0/Sender.GeneratedMSBuildEditorConfig.editorconfig
+/home/horaoen/CodeRepo/DemoProject/RabbitMQ/Sender/obj/Debug/net6.0/Sender.AssemblyInfoInputs.cache
+/home/horaoen/CodeRepo/DemoProject/RabbitMQ/Sender/obj/Debug/net6.0/Sender.AssemblyInfo.cs
+/home/horaoen/CodeRepo/DemoProject/RabbitMQ/Sender/obj/Debug/net6.0/Sender.csproj.CoreCompileInputs.cache
+/home/horaoen/CodeRepo/DemoProject/RabbitMQ/Sender/obj/Debug/net6.0/Sender.csproj.CopyComplete
+/home/horaoen/CodeRepo/DemoProject/RabbitMQ/Sender/obj/Debug/net6.0/Sender.dll
+/home/horaoen/CodeRepo/DemoProject/RabbitMQ/Sender/obj/Debug/net6.0/ref/Sender.dll
+/home/horaoen/CodeRepo/DemoProject/RabbitMQ/Sender/obj/Debug/net6.0/Sender.pdb
+/home/horaoen/CodeRepo/DemoProject/RabbitMQ/Sender/obj/Debug/net6.0/Sender.genruntimeconfig.cache

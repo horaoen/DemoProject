@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/eU5t363cIQNgUFbff1z2RkT4TBG1xxyr5oxcM0qliF4mL8y488voWcicGXsAcCgtjyP6O8yLVRQx3kok6SKNw==",
+  "success": true,
+  "projectFilePath": "/home/horaoen/CodeRepo/DemoProject/RabbitMQ/Consumer/Consumer.csproj",
+  "expectedPackageFiles": [
+    "/home/horaoen/.nuget/packages/rabbitmq.client/6.2.3/rabbitmq.client.6.2.3.nupkg.sha512",
+    "/home/horaoen/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/home/horaoen/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512",
+    "/home/horaoen/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
